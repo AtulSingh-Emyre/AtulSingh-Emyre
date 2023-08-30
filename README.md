@@ -1,10 +1,5 @@
 # Hey, [Atul](https://atul-singh-emyre.herokuapp.com/) here! 👋 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) &nbsp;
-
 A pre-final year student at Indian Institute of Technology, Dharwad. 🙌 Being a full stack developer, I am extremely interested in developing or enhancing web and mobile application products that make an impact to the society! Apart from that I love getting involved in [Competitive Programming and Problem Solving](https://leetcode.com/Emyre/).❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
