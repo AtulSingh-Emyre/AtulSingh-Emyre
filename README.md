@@ -1,12 +1,24 @@
 # Hey, [Atul](https://atulsingh-officials.in/) here! 👋 
 
-A pre-final year student at Indian Institute of Technology, Dharwad. 🙌 Being a full stack developer, I am extremely interested in developing or enhancing web and mobile application products that make an impact to the society! Apart from that I love getting involved in [Competitive Programming and Problem Solving](https://leetcode.com/Emyre/).❤✌
+A working professional with 3 year industry experience, I am extremely interested in developing or enhancing web and mobile application products that make an impact to the society! Apart from that I love getting involved in [Competitive Programming and Problem Solving](https://leetcode.com/Emyre/).❤✌
+Having graduated from Indian Institute of Technology, Dharwad 🙌, I have worked as Implementation Engineer in Telecom Industry while simultaneously studying Full Stack Development in MERN and JAVA.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-### 🔭 I am currently working on!
-- [**Chess**](https://github.com/AtulSingh-Emyre/Chess) : A website with voice driven game of chess. It uses speech processing concepts along with KNN map to train and recognize chess commands to play the moves. ♟️
-- [**Gymkhana website**](https://github.com/ashishakash/Gymkhana) : The official student activity website of Indian Institute of Technology, Dharwad. I am currently a maintainer of the website. 👨‍🎓
+### 🔭 So far I have worked on!
+#### [**Implementation Engineer, 6d Technologies**](https://www.6dtechnologies.com/) :
+* Worked on DevOps to develop CICD pipeline scripts in Gitlab & Ansible for various microservices.
+* Worked on Databases like MySql and MongoDB for creating reports and scheduled procedures.
+* Worked on Building, Integrating and Debugging 3 interconnected modules and microservices in development and production environments based on provided High Level Documents involving AWS & Kubernetes.
+* Worked on Telecom services like UPC (Unified Product Catalog), Billing and USSD in more than 3 projects while having led the UPC module team in 3 projects.
+
+#### [**R&D Engineer, McAfee (Intern)**](https://www.mcafee.com/en-in/index.html) : 
+* Worked as the sole developer in developing a proof of concept (android application in Kotlin) which aims to provide cybersecurity during transactions on android devices from scratch in 6 months.
+* Researched and developed features related to ensuring protection from snooping threats, overlay threats, malware threats, network threats, VPN threats and keyboard threats during transactions.
+* Have written scalable, clean, secure and well maintained code while also maintaining the user experience aspect by heavily optimizing the scan time and using standard UI practices.
+
+#### [**Android Developer, Holagraph (Intern)**](https://holagraphcorporate.com/) : 
+* Developed the complete authentication and Job Search Module under 3 months using React Native and Typescript along with Version Control.
 
 ### ✍️ My skill set!
 <p>
@@ -24,7 +36,8 @@ A pre-final year student at Indian Institute of Technology, Dharwad. 🙌 Being 
 
 ### 🌱 My work!
 - [**Tradycoon**](https://github.com/AtulSingh-Emyre/tradycoon) : A mobile application built using the MERN stack and React Native, the application aims to provide a platform for traders and analysts to perform their stock trading business in a more efficient manner. It currently has about **2.7k downloads** and **2k active users**.📈
-
+- [**Gymkhana website**](https://github.com/ashishakash/Gymkhana) : The official student activity website of Indian Institute of Technology, Dharwad. I am currently a maintainer of the website. 👨‍🎓
+  
 ### 🧑‍🤝‍🧑 Community!
 - [**OSS, IIT Dharwad**](https://github.com/oss2019) : I am an owner of the Open Student Society, IIT Dharwad. The organization aims to provide a platform to nurture and enhance open source contributers in the Hubli-Dharwad region of Karnataka. 🤝
 - **Technical Council, IIT Dharwad** : I was the General Secretary, Technical Affairs at IIT Dharwad for two terms (2021-22 and 2022-23). The position makes me responsible for overseeing or conducting the various technical activities that take place in the college. 🙌
