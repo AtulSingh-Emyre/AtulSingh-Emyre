@@ -1,15 +1,15 @@
 # Hey, [Atul](https://atulsingh-officials.in/) here! 👋 
 
 A working professional with 3 year industry experience, I am extremely interested in developing or enhancing web and mobile application products that make an impact to the society! Apart from that I love getting involved in [Competitive Programming and Problem Solving](https://leetcode.com/Emyre/).❤✌
-Having graduated from Indian Institute of Technology, Dharwad 🙌, I have worked as Implementation Engineer in Telecom Industry while simultaneously studying Full Stack Development in MERN and JAVA.
+Having graduated from Indian Institute of Technology, Dharwad 🙌, I have worked as Software Engineer in Telecom Industry while simultaneously studying Full Stack Development in MERN and JAVA.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 ### 🔭 So far I have worked on!
-#### [**Implementation Engineer, 6d Technologies**](https://www.6dtechnologies.com/) :
-* Worked on DevOps to develop CICD pipeline scripts in Gitlab & Ansible for various microservices.
-* Worked on Databases like MySql and MongoDB for creating reports and scheduled procedures.
-* Worked on Building, Integrating and Debugging 3 interconnected modules and microservices in development and production environments based on provided High Level Documents involving AWS & Kubernetes.
+#### [**Software Engineer, 6d Technologies**](https://www.6dtechnologies.com/) :
+* Engineered CICD pipeline scripts in Gitlab & Ansible for 13 microservices resulting in reduced  deployment time by 50%.
+* Created 3 reports and scheduled 5 procedures in MySql and MongoDB for creating Dashboards and automating processes executed daily to reduce manual interventions by 70%.
+* Deployed and Managed 2 interconnected modules in dev and prod environments based on provided High Level Documents involving AWS & Kubernetes to ensure smooth building, integrating and debugging of the microservices.
 * Worked on Telecom services like UPC (Unified Product Catalog), Billing and USSD in more than 3 projects while having led the UPC module team in 3 projects.
 
 #### [**R&D Engineer, McAfee (Intern)**](https://www.mcafee.com/en-in/index.html) : 
