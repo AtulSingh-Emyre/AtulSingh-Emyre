@@ -64,8 +64,6 @@ AI Systems Engineer & Full-Stack Architect specializing in high-concurrency back
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtulSingh-Emyre&theme=radical)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSingh-Emyre&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 💡 Let's Connect
