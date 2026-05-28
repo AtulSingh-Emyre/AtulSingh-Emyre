@@ -1,6 +1,6 @@
 # Hey, Atul Singh here! 👋 
 
-AI Systems Engineer & Full-Stack Architect specializing in high-concurrency backend microservices, production MLOps pipelines, and intelligent workflow automation. I bridge deep mathematical models with scalable infrastructure to build intelligent systems that drive business impact. Welcome to my GitHub!
+AI Systems Engineer & Full-Stack Architect specializing in high-concurrency backend microservices, production MLOps pipelines, and intelligent workflow automation. I bridge deep mathematical models with scalable infrastructure to solve complex distributed systems challenges.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Emyre/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-singh-457610195/)
@@ -21,9 +21,9 @@ AI Systems Engineer & Full-Stack Architect specializing in high-concurrency back
 ### 📈 Production Architectural Impact
 
 #### ⚡ AI Backend Engineer | 6d Technologies (May 2023 – Present)
-* **High-Concurrency Optimization:** Refactored core microservices using profiling and asynchronous tasks, boosting system efficiency by **50% to 70%** in high-concurrency enterprise production environments supporting millions of daily requests.
+* **High-Concurrency Optimization:** Refactored core microservices using profiling and asynchronous tasks, boosting system efficiency by **50% to 70%** in high-concurrency enterprise production environments.
 * **Automated Data Pipelines:** Engineered automated real-time data pipelines via Python, MySQL, and MongoDB, cutting manual dashboard interventions by **70%**.
-* **Production MLOps Infrastructure:** Architected and deployed CI/CD pipelines utilizing GitLab CI and Ansible for **13+ interconnected microservice modules**, accelerating deployment velocity by **5x** and reducing deployment failures by **40%**.
+* **Production MLOps Infrastructure:** Architected and deployed CI/CD pipelines utilizing GitLab CI and Ansible for **13+ interconnected microservice modules**, accelerating deployment velocity by **50%**.
 * **Distributed Test Orchestration:** Formulated 200+ automated test protocols for AWS-hosted full-stack engines, increasing critical pre-production bug detection by **30%**.
 
 #### 🛡️ AI & Security Software Engineer | McAfee (R&D Intern)
@@ -62,9 +62,9 @@ AI Systems Engineer & Full-Stack Architect specializing in high-concurrency back
 
 ### 📊 GitHub Systems Stats
 
-![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulSingh-Emyre&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtulSingh-Emyre&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSingh-Emyre&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSingh-Emyre&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
